@@ -31,10 +31,10 @@ Based in Tangier, I’m open to opportunities where I can contribute, learn, and
 
 ## I'm an early morning
 
-🌞 Morning                1990 commits        ███████████░░░░░░░░░░░░░░   40.07 %   
-🌆 Daytime                4443 commits        ████████░░░░░░░░░░░░░░░░░   30.65 %   
-🌃 Evening                4455 commits        ████████░░░░░░░░░░░░░░░░░   20.74 %   
-🌙 Night                  2315 commits        ████░░░░░░░░░░░░░░░░░░░░░   8.54 %   
+🌞 Morning &emsp; &emsp; &emsp;              1990 commits &emsp; &emsp; &emsp;     ███████████░░░░░░░░░░░░░░   40.07 %   
+🌆 Daytime &emsp; &emsp; &emsp;             4443 commits &emsp; &emsp; &emsp;     ████████░░░░░░░░░░░░░░░░░   30.65 %   
+🌃 Evening &emsp; &emsp; &emsp;             4455 commits &emsp; &emsp; &emsp;     ████████░░░░░░░░░░░░░░░░░   20.74 %   
+🌙 Night &emsp; &emsp; &emsp; &emsp;              2315 commits &emsp; &emsp;      ████░░░░░░░░░░░░░░░░░░░░░   8.54 %   
 
 ## 📅 I'm Most Productive on Sunday
 
