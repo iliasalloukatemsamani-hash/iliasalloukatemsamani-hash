@@ -31,34 +31,32 @@ Based in Tangier, I’m open to opportunities where I can contribute, learn, and
 
 ## I'm an early morning
 
-🌞 Morning               1990 commits        ████████████░░░░░░░░░░░░░   40.07 % 
-🌆 Daytime               4443 commits        ████████░░░░░░░░░░░░░░░░░   30.65 % 
-🌃 Evening               4455 commits        ████████░░░░░░░░░░░░░░░░░   20.74 % 
-🌙 Night                 2315 commits        ████░░░░░░░░░░░░░░░░░░░░░   8.54 % 
-📅 I'm Most Productive on Sunday
+🌞 Morning                1990 commits        ███████████░░░░░░░░░░░░░░   40.07 %   
+🌆 Daytime                4443 commits        ████████░░░░░░░░░░░░░░░░░   30.65 %   
+🌃 Evening                4455 commits        ████████░░░░░░░░░░░░░░░░░   20.74 %   
+🌙 Night                  2315 commits        ████░░░░░░░░░░░░░░░░░░░░░   8.54 %   
 
-Monday                   1539 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Tuesday                  1866 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Wednesday                1878 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Thursday                 1532 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Friday                   1405 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Saturday                 2130 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Sunday                   2853 commits        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-📊 This Week I Spent My Time On
+## 📅 I'm Most Productive on Sunday
 
-🕑︎ Time Zone: GMT +1 (casablanca)
+Monday                   1539 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %   
+Tuesday                  1866 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 %   
+Wednesday                1878 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.22 %   
+Thursday                 1532 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %   
+Friday                   1405 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 %   
+Saturday                 2130 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 %   
+Sunday                   2853 commits        █████░░░░░░░░░░░░░░░░░░░░   21.61 %   
+
+##📊 This Week I Spent My Time On
+
+🕑︎ Time Zone: GMT+1 (casablanca)
 
 💬 Programming Languages: 
-SQL                      5 hrs 31 mins       ████████████████░░░░░░░░░   64.75 % 
-VBA                      1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-c                        1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-HTML/css                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+SQL                     26 hrs 31 mins       ████████████████░░░░░░░░░   64.75 %   
+Excel                    4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.28 %   
+Power Bi                 1 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 %   
+Python                        10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %   
+HTML                           6 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %   
 
-🔥 Editors: 
-SQL server managment     8 hrs 9 mins        ████████████████████████░   95.73 % 
-MICROSOFT EXCEL          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Power BI                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+## 💻 Operating System:
 
-💻 Operating System: 
-Windows                 8 hrs 31 mins        █████████████████████████   100.00 % 
+WINDOWS                  32 hrs 23 mins      █████████████████████████   100.00 %
