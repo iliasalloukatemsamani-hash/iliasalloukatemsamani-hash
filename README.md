@@ -69,6 +69,6 @@ Based in Tangier, I’m open to opportunities where I can contribute, learn, and
 | OS | Time | Bar |
 |----|------|-----|
 | WINDOWS | 8 hrs 31 mins | █████████████████████████ 100.00% |
-| LINUX | 8 hrs 31 mins | ███████████████████████░░ 100.00% |
+| LINUX | 8 hrs 31 mins | █████████████████████░░░░ 80.00% |
 
 ---
