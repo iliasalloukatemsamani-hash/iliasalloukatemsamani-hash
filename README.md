@@ -54,7 +54,7 @@ Based in Tangier, I’m open to opportunities where I can contribute, learn, and
 
 ---
 
-### 💬 Programming Languages (This Week)
+### 💬 Data Activities (This Week)
 
 | Language | Time | Bar |
 |----------|------|-----|
