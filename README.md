@@ -1,7 +1,5 @@
 ![image alt](https://github.com/iliasalloukatemsamani-hash/iliasalloukatemsamani-hash/blob/main/header.png?raw=true)
 
-## I turn data into decisions 📊
-
 Data Analyst with a background in Electronic Science and a strong foundation in UX design, passionate about transforming data into meaningful insights that drive smarter decisions.
 
 My journey started with a deep interest in technology and problem-solving, which evolved into combining analytical thinking with user-centered design. Today, I focus on analyzing data to uncover patterns, improve user experiences, and support business growth.
