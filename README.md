@@ -1,6 +1,6 @@
-## I turn data into decisions 📊
+![image alt](https://github.com/iliasalloukatemsamani-hash/iliasalloukatemsamani-hash/blob/main/header.png?raw=true)
 
-# Hey there 👋
+## I turn data into decisions 📊
 
 Data Analyst with a background in Electronic Science and a strong foundation in UX design, passionate about transforming data into meaningful insights that drive smarter decisions.
 
