@@ -11,6 +11,12 @@ I’m particularly interested in projects involving digital products, user behav
 
 Based in Tangier, I’m open to opportunities where I can contribute, learn, and grow in data analytics.
 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilias%20Temsamani-blue
+)
+![Tieup](https://img.shields.io/badge/tieup-Ilias%20Allouka%20Temsamani-yellow
+)
+![Gmail](https://img.shields.io/badge/Gmail-iliasalloukatemsamani%40gmail.com-red
+)
 ---
 ## 🛠️ Tools & Tech
 
