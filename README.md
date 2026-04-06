@@ -71,3 +71,4 @@ Based in Tangier, I’m open to opportunities where I can contribute, learn, and
 | LINUX | 8 hrs 31 mins | █████████████████░░░░░░░░ 60.00% |
 
 ---
+![image alt](https://github.com/iliasalloukatemsamani-hash/iliasalloukatemsamani-hash/blob/main/2af4f9f2-a350-496a-bd6a-1d64a9b94124.png?raw=true)
